@@ -4,3 +4,4 @@ public class Main {
         System.out.println("2 + 3 = " + Calcul.addition(2, 3));
     }
 }
+// Commit du Scrum Master
